@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">The Movie Database</string>
+    <string name="welcome_to_the_movie_database">Welcome to The Movie Database (TMDb)</string>
+    <string name="description">Click search button to find latest movies on TMDb\nYou can filter search results either based on your specified date</string>
+    <string name="date_format">yyyy-MM-dd</string>
+    <string name="from">from</string>
+    <string name="to">* to</string>
+    <string name="filter">filter</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_dialog_fragment_title">Date Filter</string>
+    <string name="start">start</string>
+    <string name="retry">retry</string>
+    <string name="internet_connection_problem">Internet Connection Problem</string>
+    <string name="release_date_label">Primary release date:</string>
+    <string name="user_rating_label">"User rating: "</string>
+    <string name="fake_movie_detail">fake movie detail</string>
+    <string name="user_rating_format" tools:ignore="PluralsCandidate">%.2f from %d vote(s)</string>
+    <string name="nothing_to_show_message">There is nothing to show</string>
+    <string name="guide_message">Select a movie from the provided list to view its details</string>
+</resources>
